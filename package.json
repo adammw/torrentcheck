@@ -1,0 +1,15 @@
+{
+  "name": "torrentcheck",
+  "version": "0.1.0",
+  "description": "",
+  "bin": {
+    "torrentcheck": "./torrentcheck.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "~2.2.0",
+    "read-torrent": "~0.2.0",
+    "progress": "~1.1.5"
+  }
+}
